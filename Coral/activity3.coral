@@ -1,0 +1,7 @@
+integer userAge
+
+userAge = 23
+
+Put userAge to output
+  
+Put " is a great age." to output

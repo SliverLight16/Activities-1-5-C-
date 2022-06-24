@@ -1,0 +1,27 @@
+Variable - a named box, used to hold a value (data)
+
+Assignment - assigns a variable with a value
+
+Statement - an assignment’s expression where the left side is a variable and the right side is a value.
+
+Expression -  a number, value, or a calculation
+
+Integer - a variable type that can hold whole number values (ex. 1, 99, 0 or -25)
+
+Float - a integer with a decimal value (9.5)
+
+String - a sequence of characters (ex. “Hello”, or “The forecast for today is sunny.”)
+
+Literal - text literally put into the code by user (ex. putting 5 instead 2+3)
+
+Boolean - a quanity that has only two values
+
+Identifier - a name created by user for an item like a variable or function
+
+Camel Case - a way of type where the first word is lowercase and rest uppercase (ex: blueCHAIR)
+
+Reserved Words - a word that is part of the coding language
+
+Naming - a set of style guidelines defined by a enity
+
+Convention - a set of style guidelines defined by a enity

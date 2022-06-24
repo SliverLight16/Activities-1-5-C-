@@ -1,0 +1,10 @@
+integer x
+
+x = 1
+x = x * 20
+x = x * 20
+
+Put "A person with measles may cause " to output
+Put x to output
+Put "\n" to output
+Put "people to be infected in two weeks." to output

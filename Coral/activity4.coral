@@ -1,0 +1,6 @@
+integer userAge
+
+userAge = Get next input
+
+Put userAge to output
+Put " is a great age." to output

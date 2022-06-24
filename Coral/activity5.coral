@@ -1,0 +1,15 @@
+integer yourFriends
+integer totalFriends
+
+yourFriends = Get next input
+totalFriends = yourFriends*yourFriends
+
+Put "Your friend knows " to output
+Put totalFriends to output
+Put " people.\n" to output
+
+totalFriends = totalFriends*yourFriends
+
+Put "And, they know "to output
+Put totalFriends to output
+Put " people.\n" to output
